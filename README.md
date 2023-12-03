@@ -45,5 +45,6 @@ return 0; <br>
 </p>
 
 <p align="center"> Output </p>
-<p align="center">![image](https://github.com/rahul-joy/code-to-solve-the-Memory-Management-technique-problem/assets/81201194/b3fcfda3-5b6e-49e4-aedd-fb63ecdf4a08)
-</p>
+
+![image](https://github.com/rahul-joy/code-to-solve-the-Memory-Management-technique-problem/assets/81201194/8daeae9e-577b-40fb-afee-2f27a37c3e96)
+
